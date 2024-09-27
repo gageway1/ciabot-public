@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CIA.Net.Public.Bot": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
