@@ -690,3 +690,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/CIA.Net.Public.Bot/appsettings.json
+/CIA.Net.Public.Bot/appsettings.json
